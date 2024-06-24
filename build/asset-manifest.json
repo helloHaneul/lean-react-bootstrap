@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50a1370f.css",
+    "main.js": "/static/js/main.22b621b4.js",
+    "static/js/453.10eb283e.chunk.js": "/static/js/453.10eb283e.chunk.js",
+    "static/media/evnet_thumb.png": "/static/media/evnet_thumb.a235bb9575392b5c05ef.png",
+    "static/media/product2.png": "/static/media/product2.336ee634ca3a09c995c8.png",
+    "static/media/product1.png": "/static/media/product1.89a35898e26cf4adff45.png",
+    "static/media/share.svg": "/static/media/share.e7b874c58231df5f8794df46ed8d6f58.svg",
+    "static/media/star.svg": "/static/media/star.69615cc82612d9a608e51807ec2a7cb6.svg",
+    "static/media/dark_download.svg": "/static/media/dark_download.5c7fceea57748c62d139664333422170.svg",
+    "static/media/out.svg": "/static/media/out.1e2a4b1f1c6cfe2f599f6bbcad62a3e2.svg",
+    "index.html": "/index.html",
+    "static/media/arrow_left.svg": "/static/media/arrow_left.f924d21bdb96f312f7c240defb9a9c7e.svg",
+    "main.50a1370f.css.map": "/static/css/main.50a1370f.css.map",
+    "main.22b621b4.js.map": "/static/js/main.22b621b4.js.map",
+    "453.10eb283e.chunk.js.map": "/static/js/453.10eb283e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a1370f.css",
+    "static/js/main.22b621b4.js"
+  ]
+}
